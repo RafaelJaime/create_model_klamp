@@ -118,11 +118,4 @@ Este proyecto está licenciado bajo la [Licencia Apache 2.0](LICENSE) - consulta
 
 ## 🙏 Agradecimientos
 
-Agradecemos a la comunidad de Hugging Face, a Microsoft por el desarrollo de KBLaM, y a todos los profesionales médicos que han compartido su conocimiento para hacer posible este proyecto.
-
----
-
-<p align="center">
-  <i>Desarrollado con ❤️ por la comunidad para la comunidad médica</i>
-</p>
-
+Agradecemos a la comunidad de Hugging Face y a todos los profesionales médicos que han compartido su conocimiento para hacer posible este proyecto.
